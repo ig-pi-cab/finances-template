@@ -1,4 +1,3 @@
-import React from "react";
 import { useState } from "react";
 import PixIcon from '@mui/icons-material/Pix';
 import { Link } from "react-router-dom";
